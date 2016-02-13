@@ -1,0 +1,10 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/readme.d
+!/.config/mr/readme.d/tmux
+!/.config/mr/readme.d/tmux/README.md
+!/.gitignore.d
+!/.gitignore.d/tmux
+!/.tmux-osx.conf
+!/.tmux.conf
