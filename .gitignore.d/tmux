@@ -8,3 +8,4 @@
 !/.gitignore.d/tmux
 !/.tmux-osx.conf
 !/.tmux.conf
+!/.tmux.conf-pre-tpm
